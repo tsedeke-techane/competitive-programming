@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2383-add-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/2383-add-two-integers) |
 ## Sorting
 |  |
 | ------- |
