@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
