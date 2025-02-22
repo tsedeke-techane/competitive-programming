@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tsedeke-techane/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/tsedeke-techane/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tsedeke-techane/competitive-programming/tree/master/0053-maximum-subarray) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/tsedeke-techane/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/tsedeke-techane/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Sliding Window
 |  |
 | ------- |
