@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tsedeke-techane/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/tsedeke-techane/competitive-programming/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
 | [0661-image-smoother](https://github.com/tsedeke-techane/competitive-programming/tree/master/0661-image-smoother) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tsedeke-techane/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tsedeke-techane/competitive-programming/tree/master/0146-lru-cache) |
+| [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tsedeke-techane/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Sliding Window
