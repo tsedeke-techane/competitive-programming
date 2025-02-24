@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/tsedeke-techane/competitive-programming/tree/master/0661-image-smoother) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Prefix Sum
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tsedeke-techane/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tsedeke-techane/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2383-add-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/2383-add-two-integers) |
 ## Sorting
 |  |
