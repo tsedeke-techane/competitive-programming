@@ -3,14 +3,16 @@ class Solution:
         lastIdx = {}
         for i in range(len(s)):
             lastIdx[s[i]] = i
+
+        print(lastIdx)
         
         curLast = 0
-        accu = 0
-        res = []
+        curStart = 0
+        ans = []
         for i in range(len(s)):
             curLast = max(curLast, lastIdx[s[i]])
             if i == curLast:
-                res.append(i + 1 - accu)
-                accu = i + 1
+                ans.append(curLast - curStart + 1)
+                curStart = i + 1
         
-        return res
+        return ans
