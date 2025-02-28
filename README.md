@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tsedeke-techane/competitive-programming/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
