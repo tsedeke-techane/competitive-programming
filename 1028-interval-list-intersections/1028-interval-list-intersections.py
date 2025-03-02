@@ -4,7 +4,8 @@ class Solution:
         ans = []
       
         while i < len(firstList) and j < len(secondList):
-            start, end = max(firstList[i][0], secondList[j][0]), min(firstList[i][1], secondList[j][1])
+            start = max(firstList[i][0], secondList[j][0])
+            end = min(firstList[i][1], secondList[j][1])
           
             if start <= end:
                 ans.append([start, end])
