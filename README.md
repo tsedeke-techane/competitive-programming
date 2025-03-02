@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/tsedeke-techane/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0966-binary-subarrays-with-sum](https://github.com/tsedeke-techane/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1028-interval-list-intersections](https://github.com/tsedeke-techane/competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tsedeke-techane/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tsedeke-techane/competitive-programming/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
+| [1028-interval-list-intersections](https://github.com/tsedeke-techane/competitive-programming/tree/master/1028-interval-list-intersections) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0371-sum-of-two-integers) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/tsedeke-techane/competitive-programming/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
