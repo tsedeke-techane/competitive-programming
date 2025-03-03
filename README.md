@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/tsedeke-techane/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0966-binary-subarrays-with-sum](https://github.com/tsedeke-techane/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1028-interval-list-intersections](https://github.com/tsedeke-techane/competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -95,12 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2383-add-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/2383-add-two-integers) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Binary Search
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/tsedeke-techane/competitive-programming/tree/master/0768-partition-labels) |
+| [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Linked List
