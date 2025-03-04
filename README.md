@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tsedeke-techane/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tsedeke-techane/competitive-programming/tree/master/0055-jump-game) |
 | [0238-product-of-array-except-self](https://github.com/tsedeke-techane/competitive-programming/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/tsedeke-techane/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tsedeke-techane/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tsedeke-techane/competitive-programming/tree/master/0146-lru-cache) |
+| [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tsedeke-techane/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tsedeke-techane/competitive-programming/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/tsedeke-techane/competitive-programming/tree/master/1095-two-city-scheduling) |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Greedy
 |  |
