@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsedeke-techane/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tsedeke-techane/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/2465-shifting-letters-ii) |
+| [3055-maximum-odd-binary-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2383-add-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/2383-add-two-integers) |
+| [3055-maximum-odd-binary-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3055-maximum-odd-binary-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 ## Linked List
 |  |
 | ------- |
