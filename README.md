@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/tsedeke-techane/competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1095-two-city-scheduling](https://github.com/tsedeke-techane/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tsedeke-techane/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/tsedeke-techane/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tsedeke-techane/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/2465-shifting-letters-ii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/tsedeke-techane/competitive-programming/tree/master/1095-two-city-scheduling) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/tsedeke-techane/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsedeke-techane/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
