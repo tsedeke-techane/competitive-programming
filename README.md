@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/tsedeke-techane/competitive-programming/tree/master/0071-simplify-path) |
 | [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tsedeke-techane/competitive-programming/tree/master/0768-partition-labels) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/tsedeke-techane/competitive-programming/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
