@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tsedeke-techane/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/tsedeke-techane/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/tsedeke-techane/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/0525-contiguous-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tsedeke-techane/competitive-programming/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/tsedeke-techane/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tsedeke-techane/competitive-programming/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/tsedeke-techane/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/tsedeke-techane/competitive-programming/tree/master/1028-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tsedeke-techane/competitive-programming/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
