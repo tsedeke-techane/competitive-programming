@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/tsedeke-techane/competitive-programming/tree/master/0661-image-smoother) |
+| [0739-daily-temperatures](https://github.com/tsedeke-techane/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0829-subdomain-visit-count](https://github.com/tsedeke-techane/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0890-lemonade-change](https://github.com/tsedeke-techane/competitive-programming/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/tsedeke-techane/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/tsedeke-techane/competitive-programming/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tsedeke-techane/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/tsedeke-techane/competitive-programming/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -223,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tsedeke-techane/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/tsedeke-techane/competitive-programming/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
