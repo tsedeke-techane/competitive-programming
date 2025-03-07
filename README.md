@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/tsedeke-techane/competitive-programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2383-add-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/2383-add-two-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/tsedeke-techane/competitive-programming/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/tsedeke-techane/competitive-programming/tree/master/1095-two-city-scheduling) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/tsedeke-techane/competitive-programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsedeke-techane/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
