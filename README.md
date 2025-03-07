@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/tsedeke-techane/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1720-crawler-log-folder](https://github.com/tsedeke-techane/competitive-programming/tree/master/1720-crawler-log-folder) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tsedeke-techane/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/tsedeke-techane/competitive-programming/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/tsedeke-techane/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsedeke-techane/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1720-crawler-log-folder](https://github.com/tsedeke-techane/competitive-programming/tree/master/1720-crawler-log-folder) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tsedeke-techane/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tsedeke-techane/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/tsedeke-techane/competitive-programming/tree/master/0739-daily-temperatures) |
+| [1720-crawler-log-folder](https://github.com/tsedeke-techane/competitive-programming/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
