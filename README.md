@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/tsedeke-techane/competitive-programming/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/tsedeke-techane/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tsedeke-techane/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tsedeke-techane/competitive-programming/tree/master/0055-jump-game) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/tsedeke-techane/competitive-programming/tree/master/0969-number-of-recent-calls) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/tsedeke-techane/competitive-programming/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
