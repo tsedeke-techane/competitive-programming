@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tsedeke-techane/competitive-programming/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/tsedeke-techane/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tsedeke-techane/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/tsedeke-techane/competitive-programming/tree/master/0739-daily-temperatures) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tsedeke-techane/competitive-programming/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/tsedeke-techane/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0838-design-linked-list) |
 | [0969-number-of-recent-calls](https://github.com/tsedeke-techane/competitive-programming/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/tsedeke-techane/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/tsedeke-techane/competitive-programming/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
