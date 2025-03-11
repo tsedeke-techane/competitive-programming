@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0002-add-two-numbers) |
+| [0172-factorial-trailing-zeroes](https://github.com/tsedeke-techane/competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0371-sum-of-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
