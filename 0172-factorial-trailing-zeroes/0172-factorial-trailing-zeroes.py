@@ -12,4 +12,3 @@ class Solution:
             fact //= 10
 
         return trailing_zero
-
