@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tsedeke-techane/competitive-programming/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsedeke-techane/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tsedeke-techane/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/tsedeke-techane/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tsedeke-techane/competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tsedeke-techane/competitive-programming/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tsedeke-techane/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/tsedeke-techane/competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/tsedeke-techane/competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tsedeke-techane/competitive-programming/tree/master/0326-power-of-three) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tsedeke-techane/competitive-programming/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tsedeke-techane/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/tsedeke-techane/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0394-decode-string) |
