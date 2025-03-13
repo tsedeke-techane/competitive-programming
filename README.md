@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tsedeke-techane/competitive-programming/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/tsedeke-techane/competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/tsedeke-techane/competitive-programming/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/tsedeke-techane/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsedeke-techane/competitive-programming/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tsedeke-techane/competitive-programming/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/tsedeke-techane/competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/tsedeke-techane/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsedeke-techane/competitive-programming/tree/master/0342-power-of-four) |
 ## Stack
 |  |
