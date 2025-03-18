@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -315,8 +316,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/tsedeke-techane/competitive-programming/tree/master/0456-132-pattern) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
