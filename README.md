@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tsedeke-techane/competitive-programming/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/tsedeke-techane/competitive-programming/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsedeke-techane/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/tsedeke-techane/competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/tsedeke-techane/competitive-programming/tree/master/0231-power-of-two) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tsedeke-techane/competitive-programming/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/tsedeke-techane/competitive-programming/tree/master/0456-132-pattern) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
