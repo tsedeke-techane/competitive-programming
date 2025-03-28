@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tsedeke-techane/competitive-programming/tree/master/0053-maximum-subarray) |
+| [1873-longest-nice-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/tsedeke-techane/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
+| [1873-longest-nice-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/1873-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0886-score-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsedeke-techane/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/tsedeke-techane/competitive-programming/tree/master/1720-crawler-log-folder) |
+| [1873-longest-nice-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/1873-longest-nice-substring) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tsedeke-techane/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/tsedeke-techane/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
+| [1873-longest-nice-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/1873-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tsedeke-techane/competitive-programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tsedeke-techane/competitive-programming/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0371-sum-of-two-integers) |
+| [1873-longest-nice-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/1873-longest-nice-substring) |
 ## Line Sweep
 |  |
 | ------- |
