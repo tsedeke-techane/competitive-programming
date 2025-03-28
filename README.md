@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2465-shifting-letters-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2665-minimum-time-to-repair-cars](https://github.com/tsedeke-techane/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/tsedeke-techane/competitive-programming/tree/master/0456-132-pattern) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2665-minimum-time-to-repair-cars](https://github.com/tsedeke-techane/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 ## Greedy
 |  |
 | ------- |
