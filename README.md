@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tsedeke-techane/competitive-programming/tree/master/0450-delete-node-in-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tsedeke-techane/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tsedeke-techane/competitive-programming/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tsedeke-techane/competitive-programming/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Game Theory
