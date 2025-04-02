@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/tsedeke-techane/competitive-programming/tree/master/0661-image-smoother) |
 | [0739-daily-temperatures](https://github.com/tsedeke-techane/competitive-programming/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/tsedeke-techane/competitive-programming/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/tsedeke-techane/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/tsedeke-techane/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0890-lemonade-change](https://github.com/tsedeke-techane/competitive-programming/tree/master/0890-lemonade-change) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tsedeke-techane/competitive-programming/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/tsedeke-techane/competitive-programming/tree/master/0456-132-pattern) |
+| [0792-binary-search](https://github.com/tsedeke-techane/competitive-programming/tree/master/0792-binary-search) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2665-minimum-time-to-repair-cars](https://github.com/tsedeke-techane/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 ## Greedy
