@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tsedeke-techane/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/tsedeke-techane/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tsedeke-techane/competitive-programming/tree/master/0146-lru-cache) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/tsedeke-techane/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tsedeke-techane/competitive-programming/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0394-decode-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/tsedeke-techane/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/tsedeke-techane/competitive-programming/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tsedeke-techane/competitive-programming/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsedeke-techane/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
