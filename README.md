@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/tsedeke-techane/competitive-programming/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/tsedeke-techane/competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -381,5 +382,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/1005-univalued-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/tsedeke-techane/competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/tsedeke-techane/competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/tsedeke-techane/competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
