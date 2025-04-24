@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1028-interval-list-intersections](https://github.com/tsedeke-techane/competitive-programming/tree/master/1028-interval-list-intersections) |
+| [1036-rotting-oranges](https://github.com/tsedeke-techane/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1095-two-city-scheduling](https://github.com/tsedeke-techane/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tsedeke-techane/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tsedeke-techane/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/tsedeke-techane/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/tsedeke-techane/competitive-programming/tree/master/0661-image-smoother) |
+| [1036-rotting-oranges](https://github.com/tsedeke-techane/competitive-programming/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0210-course-schedule-ii) |
 | [1005-univalued-binary-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/tsedeke-techane/competitive-programming/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tsedeke-techane/competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tsedeke-techane/competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
