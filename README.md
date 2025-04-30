@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tsedeke-techane/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/tsedeke-techane/competitive-programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2465-shifting-letters-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2665-minimum-time-to-repair-cars](https://github.com/tsedeke-techane/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/tsedeke-techane/competitive-programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/tsedeke-techane/competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3055-maximum-odd-binary-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 ## Linked List
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/tsedeke-techane/competitive-programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
