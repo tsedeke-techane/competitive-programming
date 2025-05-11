@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/tsedeke-techane/competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/tsedeke-techane/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1095-two-city-scheduling](https://github.com/tsedeke-techane/competitive-programming/tree/master/1095-two-city-scheduling) |
+| [1127-last-stone-weight](https://github.com/tsedeke-techane/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tsedeke-techane/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -411,5 +412,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/tsedeke-techane/competitive-programming/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/tsedeke-techane/competitive-programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
