@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/tsedeke-techane/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2383-add-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/tsedeke-techane/competitive-programming/tree/master/2507-number-of-common-factors) |
 | [3055-maximum-odd-binary-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
 |  |
@@ -419,4 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/tsedeke-techane/competitive-programming/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/tsedeke-techane/competitive-programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tsedeke-techane/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/tsedeke-techane/competitive-programming/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/tsedeke-techane/competitive-programming/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
