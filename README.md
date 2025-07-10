@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/tsedeke-techane/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/tsedeke-techane/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/tsedeke-techane/competitive-programming/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
