@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/tsedeke-techane/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0886-score-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsedeke-techane/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/tsedeke-techane/competitive-programming/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1720-crawler-log-folder](https://github.com/tsedeke-techane/competitive-programming/tree/master/1720-crawler-log-folder) |
 | [1797-goal-parser-interpretation](https://github.com/tsedeke-techane/competitive-programming/tree/master/1797-goal-parser-interpretation) |
 | [1873-longest-nice-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/1873-longest-nice-substring) |
