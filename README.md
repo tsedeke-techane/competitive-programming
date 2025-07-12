@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2383-add-two-integers](https://github.com/tsedeke-techane/competitive-programming/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/tsedeke-techane/competitive-programming/tree/master/2507-number-of-common-factors) |
+| [2556-convert-the-temperature](https://github.com/tsedeke-techane/competitive-programming/tree/master/2556-convert-the-temperature) |
 | [3055-maximum-odd-binary-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3371-harshad-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/3371-harshad-number) |
 ## Sorting
