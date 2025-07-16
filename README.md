@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tsedeke-techane/competitive-programming/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/tsedeke-techane/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tsedeke-techane/competitive-programming/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/tsedeke-techane/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tsedeke-techane/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/tsedeke-techane/competitive-programming/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/tsedeke-techane/competitive-programming/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/tsedeke-techane/competitive-programming/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tsedeke-techane/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tsedeke-techane/competitive-programming/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tsedeke-techane/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tsedeke-techane/competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
