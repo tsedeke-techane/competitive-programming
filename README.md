@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tsedeke-techane/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2048-build-array-from-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/tsedeke-techane/competitive-programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2465-shifting-letters-ii](https://github.com/tsedeke-techane/competitive-programming/tree/master/2465-shifting-letters-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tsedeke-techane/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/tsedeke-techane/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/tsedeke-techane/competitive-programming/tree/master/0874-backspace-string-compare) |
+| [2048-build-array-from-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
