@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/tsedeke-techane/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/tsedeke-techane/competitive-programming/tree/master/0661-image-smoother) |
 | [0739-daily-temperatures](https://github.com/tsedeke-techane/competitive-programming/tree/master/0739-daily-temperatures) |
+| [0777-toeplitz-matrix](https://github.com/tsedeke-techane/competitive-programming/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/tsedeke-techane/competitive-programming/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/tsedeke-techane/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/tsedeke-techane/competitive-programming/tree/master/0829-subdomain-visit-count) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tsedeke-techane/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/tsedeke-techane/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/tsedeke-techane/competitive-programming/tree/master/0661-image-smoother) |
+| [0777-toeplitz-matrix](https://github.com/tsedeke-techane/competitive-programming/tree/master/0777-toeplitz-matrix) |
 | [1036-rotting-oranges](https://github.com/tsedeke-techane/competitive-programming/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
