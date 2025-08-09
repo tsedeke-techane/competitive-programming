@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tsedeke-techane/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1720-crawler-log-folder](https://github.com/tsedeke-techane/competitive-programming/tree/master/1720-crawler-log-folder) |
+| [1755-defuse-the-bomb](https://github.com/tsedeke-techane/competitive-programming/tree/master/1755-defuse-the-bomb) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tsedeke-techane/competitive-programming/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tsedeke-techane/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/tsedeke-techane/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/tsedeke-techane/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/tsedeke-techane/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
+| [1755-defuse-the-bomb](https://github.com/tsedeke-techane/competitive-programming/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/1873-longest-nice-substring) |
 ## Math
 |  |
