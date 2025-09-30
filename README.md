@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/tsedeke-techane/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1028-interval-list-intersections](https://github.com/tsedeke-techane/competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/tsedeke-techane/competitive-programming/tree/master/1036-rotting-oranges) |
+| [1044-find-common-characters](https://github.com/tsedeke-techane/competitive-programming/tree/master/1044-find-common-characters) |
 | [1095-two-city-scheduling](https://github.com/tsedeke-techane/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/tsedeke-techane/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/tsedeke-techane/competitive-programming/tree/master/1293-three-consecutive-odds) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/tsedeke-techane/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0966-binary-subarrays-with-sum](https://github.com/tsedeke-techane/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tsedeke-techane/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1044-find-common-characters](https://github.com/tsedeke-techane/competitive-programming/tree/master/1044-find-common-characters) |
 | [1364-tuple-with-same-product](https://github.com/tsedeke-techane/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsedeke-techane/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1873-longest-nice-substring](https://github.com/tsedeke-techane/competitive-programming/tree/master/1873-longest-nice-substring) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/tsedeke-techane/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0874-backspace-string-compare](https://github.com/tsedeke-techane/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/tsedeke-techane/competitive-programming/tree/master/0886-score-of-parentheses) |
+| [1044-find-common-characters](https://github.com/tsedeke-techane/competitive-programming/tree/master/1044-find-common-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsedeke-techane/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/tsedeke-techane/competitive-programming/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1720-crawler-log-folder](https://github.com/tsedeke-techane/competitive-programming/tree/master/1720-crawler-log-folder) |
